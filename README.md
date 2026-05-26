@@ -1,55 +1,114 @@
-# Hi there, I'm Matin Barzegar Bahrami! 👋
+<div align="center">
 
-Welcome to my GitHub profile. I'm a passionate programmer bridging the gap between theory and functional web applications.
+# Matin Barzegar Bahrami
 
-## 👨‍💻 About Me (English)
-I have 1 to 2 years of specialized experience in Front-end development, primarily focusing on **React** and **Next.js**. Currently, I'm a Computer Science undergraduate at the Science and Research Branch University, blending my theoretical knowledge with practical skills to build responsive and user-friendly interfaces. 
-Oh, and I absolutely love finishing tasks way ahead of deadlines! 🚀
+### Front-end Developer | React & Next.js
 
-- **💼 Work Experience:** Intern Front-end @ *Hiltiran* (Aug 2025 - Present)
-- **🎓 Education:** BSc in Computer Science @ *Science and Research Branch* (2024 - Present)
-- **🌍 Languages:** Persian (Native), English (Intermediate)
-- **📍 Location:** Tehran, Iran
-
----
-
-## 👨‍💻 درباره من (فارسی)
-سلام! من یک برنامه‌نویس و توسعه‌دهنده فرانت‌اند با ۱ تا ۲ سال سابقه کار تخصصی هستم و تمرکز اصلی‌ام روی **React** و **Next.js** است. در حال حاضر دانشجوی کارشناسی علوم کامپیوتر در دانشگاه علوم و تحقیقات هستم و تلاش می‌کنم دانش تئوریک دانشگاهی را با مهارت‌های عملی ترکیب کنم تا رابط‌های کاربری واکنش‌گرا و کاربرپسند بسازم.
-راستی، عاشق این هستم که پروژه‌ها و کارها را خیلی زودتر از ددلاین (Deadline) تمام کنم! 🚀
-
-- **💼 سوابق شغلی:** کارآموز فرانت‌اند در *شرکت هیلتیران* (از مرداد ۱۴۰۴ تا کنون)
-- **🎓 تحصیلات:** دانشجوی کارشناسی علوم کامپیوتر در *دانشگاه علوم و تحقیقات* (از ۱۴۰۳ تا کنون)
-- **📍 موقعیت:** تهران (منطقه ۱۷)
-
----
-
-## 🛠️ Skills & Technologies / مهارت‌ها
-
-<p align="center">
-  <!-- Python & Django -->
-  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <br>
-  <!-- Web Basics -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <br>
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<p>
+Building fast, clean, and user-focused web applications.
 </p>
 
+<p>
+  <a href="mailto:matinbarzegarbahrami@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/matin-barzegar-bahrami/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
 ---
 
-## 📫 Contact Me / ارتباط با من
-Feel free to reach out to me! / خوشحال میشم با هم در ارتباط باشیم:
+## 👨‍💻 About Me
 
-- ✉️ **Email:** [barzegarmatin316@gmail.com](mailto:barzegarmatin316@gmail.com)
-- 📞 **Phone:** `09036591941`
+I'm a Front-end developer focused on building responsive and scalable web applications using **React** and **Next.js**.
 
-<br>
-<p align="right"><small><i>⏳ Last updated: 1405/01/30 | Code: VB-8767554</i></small></p>
+Currently studying **Computer Science** at the Science and Research Branch University while improving my practical development skills through real-world projects.
+
+I enjoy turning ideas into products that are actually usable.  
+Most people stop at “it works”. I care about performance, clean UI, and maintainable code too. Strange concept on the internet these days.
+
+- 💼 Front-end Intern and developer at **Hiltiran**
+- 🎓 BSc Computer Science Student
+- 🌍 Persian (Native) | English (Intermediate)
+- 📍 Tehran, Iran
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
+</p>
+
+### Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
+
+### Back-end & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=django,postgresql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+</div>
+
+---
+
+## 🚀 Experience
+
+### Front-end Intern | Hiltiran
+**Aug 2025 - Present**
+
+- Developing and maintaining front-end features
+- Building responsive UI with React ecosystem
+- Collaborating on internal company projects
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Next.js Architecture
+- TypeScript
+- Backend Development with Django
+- Software Architecture & Clean Code
+
+Because apparently sleeping like a normal human wasn't ambitious enough.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: **matinbarzegarbahrami@gmail.com**
+- 💼 LinkedIn: **linkedin.com/in/matin-barzegar-bahrami**
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ✨
+
+</div>
